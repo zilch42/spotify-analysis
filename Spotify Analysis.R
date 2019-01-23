@@ -1,6 +1,4 @@
-# details do these last for ever?
-print(Sys.setenv(SPOTIFY_CLIENT_ID = "1def4f31ddf74364b3f215ca5ab2f0fb", 
-                 SPOTIFY_CLIENT_SECRET = "101b5fd93c934b34baeff554eaf85bc4"))
+# need to load own API key
 
 library(spotifyr)
 library(tidyverse)
